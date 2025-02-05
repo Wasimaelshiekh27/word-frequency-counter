@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dell\newtask\word-frequency-counter\build\CMakeFiles\7e3a5152f2db2303d2c87551b4a5e8c4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9310AE0A-D938-32F6-A088-A7B14626344B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

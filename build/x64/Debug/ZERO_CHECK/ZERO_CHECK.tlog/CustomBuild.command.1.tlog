@@ -1,0 +1,10 @@
+^C:\USERS\DELL\NEWTASK\WORD-FREQUENCY-COUNTER\BUILD\CMAKEFILES\7E3A5152F2DB2303D2C87551B4A5E8C4\GENERATE.STAMP.RULE
+setlocal
+C:\Users\dell\AppData\Roaming\Python\Python311\site-packages\cmake\data\bin\cmake.exe -SC:/Users/dell/newtask/word-frequency-counter -BC:/Users/dell/newtask/word-frequency-counter/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/dell/newtask/word-frequency-counter/build/word-frequency-counter.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

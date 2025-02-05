@@ -1,0 +1,3 @@
+C:/Users/dell/newtask/word-frequency-counter/build/CMakeFiles/word-frequency-counter.dir
+C:/Users/dell/newtask/word-frequency-counter/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/dell/newtask/word-frequency-counter/build/CMakeFiles/ZERO_CHECK.dir
